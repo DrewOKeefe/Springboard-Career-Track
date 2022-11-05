@@ -1,3 +1,3 @@
 # css-js-transistion-practice
 
-Open html file in your browser to view various css transition designs.
+Open html file in your browser to view css transition designs.
